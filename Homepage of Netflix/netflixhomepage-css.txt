@@ -1,0 +1,54 @@
+.netflix-homepage {
+    background-image: url("https://miro.medium.com/v2/resize:fit:1400/1*5lyavS59mazOFnb55Z6znQ.png");
+    background-size: cover;
+    height: 50vh;
+}
+
+.netflix-logo {
+    height: 100px;
+    width: 300px;
+    background-color: transparent;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.button-custom {
+    background-color: #e60b0b;
+    border-radius: 5px;
+    color: white;
+    border-width: 0px;
+}
+
+.text-centerr {
+    text-align: right;
+}
+
+.card-container {}
+
+.netflix-heading {
+    color: white;
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+.netflix-para {
+    color: white;
+    font-family: Roboto;
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.sub-para {
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.finish-button {
+    background-color: #e60b0b;
+    color: white;
+    height: 50px;
+    width: 180px;
+    border-radius: 5px;
+    border-width: 0px;
+}

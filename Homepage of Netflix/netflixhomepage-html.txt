@@ -1,0 +1,14 @@
+<div class="netflix-homepage">
+        <div class="netflix-logo">
+            <img src="https://knowtechie.com/wp-content/uploads/2019/09/netflix-logo-with-faces-1024x547.jpg" class="netflix-logo" />
+        </div>
+        <div class="text-centerr">
+            <button class="button-custom">Sign Out</button>
+        </div>
+        <div class="card-container text-center">
+            <h1 class="netflix-heading">Welcome Back!</h1>
+            <p class="netflix-para">The biggest Indian hits.Ready to watch here from Rs/-149.</p>
+            <p class="sub-para">Join today.Cancel anytime.</p>
+            <button class="finish-button">Finish Sign Up></button>
+        </div>
+    </div>

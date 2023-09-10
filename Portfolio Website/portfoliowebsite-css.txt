@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navbar-text {
+    border-style: solid;
+    border-color: #4b6cc1;
+    border-width: 3px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+
+
+}
+
+#color-section {
+    color: white;
+}
+
+.Portfolio-section {
+    background-color: #191a1d;
+    height: 105vh;
+}
+
+.head {
+    color: white;
+    font-family: Roboto;
+    font-size: 37px;
+}
+
+.text-highlight {
+    color: #4b6cc1;
+}
+
+.para {
+    font-family: Roboto;
+    color: white;
+    font-size: 21px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.facts-section {
+    background-color: #323f4b;
+}
+
+.main-heading {
+    color: #cced00;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 26px;
+}
+
+.sub-heading {
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 35px;
+}
+
+.description {
+    color: #9aa5b1;
+    font-family: Roboto;
+}
+
+.skills-section {
+    background-color: #1f2933;
+}
+
+.skills-section-head {
+    color: #cced00;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 26px;
+}
+
+.language-container {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.image-custom {
+    height: 64px;
+    width: 64px;
+}
+
+.language-head {
+    color: white;
+    font-size: 24px;
+}
+
+.paragraph {
+    color: white;
+}
+
+.porfolio-section {
+    background-color: #52606d;
+
+}
+
+.head1 {
+    color: #cced00;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.head2 {
+    color: white;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.static-container {
+    background-color: #323f4b;
+    border-radius: 5px;
+}
+
+.static-image {
+    height: 48px;
+    width: 48px;
+}
+
+.static-head {
+    color: white;
+    font-size: 23px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.static-para {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+.contactme {
+    background-color: #0d2436;
+
+}
+
+.image-custom {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+}
+
+.head1 {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 29px;
+}
+
+.para {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.icon-custom {
+    color: #9aa5b1;
+    font-size: 26px;
+}
+
+.bg-container2 {
+    background-color: #001c32;
+    height: 10vh;
+}
+
+.para2 {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 10px;
+}
